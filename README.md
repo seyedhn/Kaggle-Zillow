@@ -1,3 +1,3 @@
 # Zillow
 
-# This is the repisotory for the Zillow Project.
+# This is the repository for the Zillow Project.
