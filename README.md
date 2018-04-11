@@ -1,1 +1,1 @@
-This is the repository for the Kaggle Zillow competition
+This is the repository for the Kaggle Zillow competition.
